@@ -4,9 +4,9 @@
 
 <br/>
 This app is made with:
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
 
 <br/>
 Live Site URL:  https://bj3rg.github.io/Drum-Kit/
