@@ -5,14 +5,14 @@
 <br/>
 # # Built with
 <br/>
-HTMLL
+-HTML
 <br/>
-CSS
+-CSS
 <br/>
-Javascript
+-Javascript
 <br/>
-DOM
-
+-DOM
+<br/>
 <br/>
 Live Site URL:  https://bj3rg.github.io/Drum-Kit/
 <br/>
